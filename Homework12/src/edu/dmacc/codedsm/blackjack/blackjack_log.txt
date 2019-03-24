@@ -1,0 +1,16 @@
+Mar 24, 2019 5:28:53 PM edu.dmacc.codedsm.blackjack.BlackJack exitRoutine
+INFO: Player's hand is: 
+Mar 24, 2019 5:28:53 PM edu.dmacc.codedsm.blackjack.BlackJack exitRoutine
+INFO: [Card{suit='Spades', value=10}, Card{suit='Clubs', value=11}]
+Mar 24, 2019 5:28:53 PM edu.dmacc.codedsm.blackjack.BlackJack exitRoutine
+INFO: Dealer's hand is: 
+Mar 24, 2019 5:28:53 PM edu.dmacc.codedsm.blackjack.BlackJack exitRoutine
+INFO: [Card{suit='Diamonds', value=10}, Card{suit='Hearts', value=5}, Card{suit='Diamonds', value=9}]
+Mar 24, 2019 5:28:53 PM edu.dmacc.codedsm.blackjack.BlackJack exitRoutine
+INFO: Player's hand Sum is: 
+Mar 24, 2019 5:28:53 PM edu.dmacc.codedsm.blackjack.BlackJack exitRoutine
+INFO: 20
+Mar 24, 2019 5:28:53 PM edu.dmacc.codedsm.blackjack.BlackJack exitRoutine
+INFO: Dealer's hand Sum is: 
+Mar 24, 2019 5:28:53 PM edu.dmacc.codedsm.blackjack.BlackJack exitRoutine
+INFO: 24
